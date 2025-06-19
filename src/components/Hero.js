@@ -16,7 +16,7 @@ function Hero() {
       </div>
       <div className="hero-image">
         {/* Optional image here */}
-        <img src="https://via.placeholder.com/300" alt="Tanmay" />
+        <img src="Microsoft_Certificate.jpg" alt="Tanmay" />
       </div>
     </section>
   );
