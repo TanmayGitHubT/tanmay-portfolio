@@ -10,7 +10,7 @@ function Hero() {
         <p>I specialize in full-stack web development, AI/ML, and building clean, modern UIs.</p>
         
         <div className="hero-buttons">
-          <a href="#contact" className="btn-primary">Hire Me</a>
+          <a href="#contact" className="btn-primary">More Info</a>
           <a href="/Tanmay-Resume.pdf" download className="btn-secondary">Download Resume</a>
         </div>
       </div>
