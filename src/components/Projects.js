@@ -6,7 +6,7 @@ const projectData = [
     title: "Smart Parking Management System",
     description: "IoT + Web-based system that manages parking using RFID sensors for recognized/unrecognized vehicles.",
     tech: "HTML, CSS, JavaScript, Node.js, MongoDB, IoT (RFID)",
-    demoLink: "#", // Replace with real link
+    demoLink: "smart-parking-new.vercel.app", // Replace with real link
     githubLink: "#"
   },
   {
