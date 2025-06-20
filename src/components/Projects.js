@@ -36,7 +36,7 @@ function Projects() {
             <p className="description">{project.description}</p>
             <p className="tech"><strong>Tech Stack:</strong> {project.tech}</p>
             <div className="project-links">
-              <a href={"smart-parking-new.vercel.app"}>Live Demo</a>
+              <a href="https://smart-parking-new.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
               <a href={project.githubLink} target="_blank" rel="noopener noreferrer">GitHub</a>
             </div>
           </div>
